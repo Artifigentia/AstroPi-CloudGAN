@@ -7,7 +7,7 @@ Code repository for team **Artifigentia** in the AstroPi [2022-23] competition
 
 - Alexander Malinin [[nottoolucky@protonmail.com](mailto:nottoolucky@protonmail.com)]
 - Ivan Lazarev [[ivan.m.lazarev@gmail.com](mailto:ivan.m.lazarev@gmail.com)]
-- Lina Capello [[ritamaria.cappello@gmail.com](mailto:ritamaria.cappello@gmail.com)]
+- Lina Cappello [[ritamaria.cappello@gmail.com](mailto:ritamaria.cappello@gmail.com)]
 
 ### Team Work
 
@@ -15,7 +15,7 @@ Code repository for team **Artifigentia** in the AstroPi [2022-23] competition
     - Neural Network development and management
 - Ivan Lazarev
     - To Be Discussed
-- Lina Capello
+- Lina Cappello
     - To Be Discussed
 
 ### ToDo
