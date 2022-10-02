@@ -14,7 +14,7 @@ Code repository for team **Artifigentia** in the AstroPi [2022-23] competition
 - Alexander Malinin
     - Neural Network development and management
 - Ivan Lazarev
-    - Neural Network development
+    - To Be Discussed
 - Lina Capello
     - To Be Discussed
 
@@ -22,7 +22,7 @@ Code repository for team **Artifigentia** in the AstroPi [2022-23] competition
 
 Idea due date:     October 28, 2022 
 
-- [ ]  Come up with the idea
+- [ ]  Come up with the idea for the project and sort jobs
 - [ ]  Find and label the dataset
 - [ ]  Start writing the code
 - [ ]  Finish optimizing AI
