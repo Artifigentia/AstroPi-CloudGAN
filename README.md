@@ -9,20 +9,20 @@ Code repository for team **Artifigentia** in the AstroPi [2022-23] competition
 - Ivan Lazarev [[ivan.m.lazarev@gmail.com](mailto:ivan.m.lazarev@gmail.com)]
 - Lina Cappello [[ritamaria.cappello@gmail.com](mailto:ritamaria.cappello@gmail.com)]
 
-### Team Work
+### To Learn
 
 - Alexander Malinin
-    - Neural Network development and management
+    - AI, Tensorflow, Matrices & Vertices
 - Ivan Lazarev
-    - To Be Discussed
+    - AI, Tensorflow, Matrices & Vertices
 - Lina Cappello
-    - To Be Discussed
+    - Python, Matrices & Vertices
 
 ### ToDo
 
 Idea due date:     October 28, 2022 
 
-- [ ]  Come up with the idea for the project and sort jobs
+- [X]  Come up with the idea for the project and sort jobs
 - [ ]  Find and label the dataset
 - [ ]  Start writing the code
 - [ ]  Finish optimizing AI
