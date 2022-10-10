@@ -1,7 +1,7 @@
 # ARTFIGENTIA
 <table><tr>
 <td> <img src="images/image1.png" style="width: 250px;"/> </td>
-<td> <img src="images/image2.png" style="width: 250px;"/> </td>
+<td> <img src="images/image4.png" style="width: 250px;"/> </td>
 <td> <img src="images/image3.png"  style="width: 250px;"/> </td>
 </tr></table>
 
