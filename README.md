@@ -1,4 +1,4 @@
-# ARTFIGENTIA
+# AstroPi-CloudGAN
 <table><tr>
 <td> <img src="images/image1.png" style="width: 250px;"/> </td>
 <td> <img src="images/image2.png" style="width: 250px;"/> </td>
